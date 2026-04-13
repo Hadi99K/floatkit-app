@@ -27,16 +27,10 @@
 ## 🔒 Security & Privacy
 
 Floatkit is built with security as a core mandate:
-*   **Anti-Tamper:** Validates the app's SHA-256 signature against the Google Play production key to prevent cloning.
-*   **Environment Check:** Detects root, emulators, debuggers, and Xposed hooks to protect premium features and user data.
+
 *   **Offline Data:** All notes, tasks, and audio files are stored in the app's private internal storage.
 
-## 🚀 Getting Started
 
-1.  **Clone the Repo:** `git clone https://github.com/Hadi99K/Floatkit.git`
-2.  **Open in Android Studio:** Use the latest version of Hedgehog or newer.
-3.  **Build Variant:** Switch to `release` to test the full security suite (requires your own Keystore).
-4.  **Google Play Setup:** Update `EXPECTED_SIGNATURE_HASH` in `app/build.gradle.kts` with your specific Play Console hash.
 
 ## 📄 License
 
