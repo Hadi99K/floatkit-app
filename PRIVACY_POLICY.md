@@ -24,6 +24,8 @@ Since we do not collect or transmit any data off your device, we do not process 
 
 The App Launcher feature reads your installed application list locally to enable quick app launching and pinning to the sidebar. The Tools Panel adjusts your device's volume and brightness settings locally using Android system APIs. No system settings data is transmitted or stored externally.
 
+The Backup & Restore feature allows you to export your data into a compressed archive (.zip) for safekeeping. This feature relies entirely on the Android Storage Access Framework (SAF) to write this backup archive directly to the local or cloud-backed directory of your choosing. We do not transmit, sync, or upload your backup files to any developer-owned servers. Once exported, the security and privacy of the backup file are your sole responsibility.
+
 ## 3. Third-Party Services (Google Play)
 
 While Floatkit is primarily an offline application and does not collect personal data on our servers, we utilize Google Play services to manage premium features and updates:
