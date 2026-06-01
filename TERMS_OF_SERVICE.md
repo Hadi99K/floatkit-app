@@ -26,7 +26,7 @@ You agree not to:
 
 ## 3. Subscriptions and In-App Purchases
 
-Floatkit offers optional premium features accessible through in-app purchases (Lifetime Access) or auto-renewing subscriptions (Monthly Subscription).
+Floatkit offers optional premium features accessible through in-app purchases (Lifetime Access) or pre-paid subscriptions (One Month Pass).
 
 *   **Billing and Transactions:** All purchases and subscriptions are securely processed by the Google Play Store. We do not handle your payment information directly.
 *   **Subscription Management:** You can manage, upgrade, downgrade, or cancel your subscription at any time through your Google Play account settings.
@@ -45,7 +45,7 @@ In no event shall the developer, Fari Ji, or contributors be liable for any indi
 *   Any unauthorized access to or use of our secure servers and/or any and all personal information stored therein.
 *   Any bugs, viruses, or glitches that may be transmitted to or through our application.
 
-Because Floatkit relies entirely on your device's local storage, we are explicitly not responsible for the loss or deletion of your notes, voice memos, or tasks (e.g., during app uninstallation, device reset, or unexpected database corruption).
+Because Floatkit relies entirely on your device's local storage, we are explicitly not responsible for the loss or deletion of your notes, voice memos, or tasks (e.g., during app uninstallation, device reset, or unexpected database corruption). While Floatkit offers an Automated Backup feature to help mitigate data loss, the secure storage and management of the exported backup files are entirely your responsibility.
 
 ## 6. Changes to Terms
 
