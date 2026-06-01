@@ -14,7 +14,7 @@ Floatkit is a mobile utility application designed to provide a floating sidebar 
 Subject to these Terms, we grant you a non-transferable, non-exclusive, revocable, limited license to use Floatkit for your personal, non-commercial purposes.
 
 ### 2.2 Device Permissions
-To function properly, Floatkit requires you to grant specific Android permissions (such as Display over other apps, Microphone, Storage, Notifications, Query All Packages for the App Launcher, and Modify System Settings for brightness control). You retain full control over these permissions and can revoke them at any time via your device settings, though this may disable certain app features. Advanced system controls like the Power Menu may optionally require Accessibility Service permissions, which you can enable or disable at any time.
+To function properly, Floatkit requires you to grant specific Android permissions (such as Display over other apps, Microphone, Storage (including All Files Access), Notifications, Query All Packages for the App Launcher, and Modify System Settings for brightness control). You retain full control over these permissions and can revoke them at any time via your device settings, though this may disable certain app features. Advanced system controls like the Power Menu may optionally require Accessibility Service permissions, which you can enable or disable at any time.
 
 ### 2.3 Prohibited Activities
 You agree not to:

@@ -11,7 +11,7 @@ Thank you for choosing to use Floatkit. We are committed to protecting your pers
 The app requests the following permissions strictly to provide its core features:
 
 *   **Display Over Other Apps (Overlay):** Required to display the floating sidebar dock over your other active applications.
-*   **Storage / Media:** Required for our core feature, Global Search, to instantly index and find your local files, media, and images across the device. All indexing is performed entirely offline.
+*   **All Files Access (MANAGE_EXTERNAL_STORAGE):** Required for our core feature, Global Search. This broad permission allows the app to index and search all file types on your device (including documents, PDFs, and archives), not just media. All scanning, indexing, and processing is performed entirely offline on your device. We do not access your files for any other purpose, and no files or metadata are ever transmitted off your device.
 *   **Microphone (Record Audio):** Required to record voice memos within the app. Audio files are saved directly to your device's local storage.
 *   **Notifications:** Required to run the foreground background service that keeps the floating sidebar active and allows you to easily control the app's visibility.
 *   **Query All Packages (Package Visibility):** Required for the App Launcher feature to detect and display your installed applications for quick launching.
