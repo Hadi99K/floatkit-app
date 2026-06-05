@@ -1,6 +1,16 @@
 # Floatkit Changelog
 
-- Latest Production Version: v1.3.4(18)
+- Latest Production Version: v1.3.5(19)
+
+## [1.3.5] - 2026-06-06
+### Added
+- **Category Management System:** Create color-coded categories from a Material palette and assign them across Tasks, Notes, Clipboard items, and Voice Notes. A horizontally scrollable `CategoryHeaderRow` with an expanding pill animation is now available in all major tool panels, and newly created items are automatically tagged to the active category.
+- **Quick Settings Tile:** Start and stop Floatkit directly from the notification shade via a native Quick Settings tile that live-syncs with the service state.
+- **Stop Service Toggle:** The main home screen button is now a full toggle — tap to start, tap again to stop.
+- **Changelog Link:** A "Changelog" entry has been added to Settings → About, pointing to the public release history on GitHub.
+
+### Fixed
+- Added "Starting Floatkit..." and "Stopping Floatkit..." toasts on tile click to clarify the brief startup/shutdown delay.
 
 ## [1.3.4] - 2026-06-03
 ### Fixed
