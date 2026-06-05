@@ -3,13 +3,8 @@
 - Latest Production Version: v1.3.4(18)
 
 ## [1.3.4] - 2026-06-03
-### Added
-- Added "Stop Floatkit" toggle button on the home screen.
-- Added a Quick Settings tile to easily start and stop the Floatkit service from anywhere.
-
 ### Fixed
 - Resolved a crash issue in the App Launcher related to icon rendering.
-- Fixed a background service crash on Android 11+ related to microphone permissions.
 
 ### Changed
 - Simplified the Premium Pricing screen to display only product tier names.
