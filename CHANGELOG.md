@@ -1,6 +1,11 @@
 # Floatkit Changelog
 
-- Latest Production Version: v1.3.5(19)
+- Latest Production Version: v1.3.6 (20)
+
+## [1.3.6] - 2026-06-07
+### Fixed
+- **Purchase Screen Crash Fix:** Resolved an `AEADBadTagException` crash caused by an invalidated or corrupted Android Keystore. The app now detects the corrupt encrypted preferences file, clears it automatically, and recovers gracefully without crashing.
+- **Backup Import Instructions:** Added a clear requirements notice in the Restore Data screen informing users to grant all permissions and start the Floatkit service before importing a backup.
 
 ## [1.3.5] - 2026-06-06
 ### Added
