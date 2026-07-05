@@ -1,6 +1,16 @@
 # Floatkit Changelog
 
-- Latest Production Version: v1.3.6 (20)
+- Latest Production Version: v1.3.7 (21)
+
+## [1.3.7] - 2026-07-06
+### Added
+- **Customization Settings Screen:** Rebranded "Appearance & Behavior" into a dedicated screen with Sidebar Pill, Panel Layout, Reset, and Touch Area sections.
+- **Sidebar Pill Customization:** Option to change the color of pill, adjust width (4–12dp), height (40–140dp), edge spacing (0–20dp), opacity (0.2–1.0), and touch area padding (0–24dp).
+- **Panel Layout Settings:** Control panel background opacity (0.6–1.0), size preset (Compact / Standard / Expanded), and idle opacity (0.3–1.0) when the overlay is collapsed.
+- **Touch Area Padding:** Manually expand the pill touch target up to 24dp for easier activation.
+
+### Fixed
+- **Category Color Selection:** Fixed a small bug for the category color selection.
 
 ## [1.3.6] - 2026-06-07
 ### Fixed
