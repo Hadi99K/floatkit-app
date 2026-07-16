@@ -1,6 +1,10 @@
 # Floatkit Changelog
 
-- Latest Production Version: v1.3.7 (21)
+- Latest Production Version: v1.3.8 (22)
+
+## [1.3.8] - 2026-07-16
+### Fixed
+- **Discount Purchase Option:** Resolved an issue where the payment page showed the original price product rather than the discounted launch offer.
 
 ## [1.3.7] - 2026-07-06
 ### Added
