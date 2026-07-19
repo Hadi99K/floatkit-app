@@ -1,6 +1,10 @@
 # Floatkit Changelog
 
-- Latest Production Version: v1.3.8 (22)
+- Latest Production Version: v1.3.9 (23)
+
+## [1.3.9] - 2026-07-19
+### Fixed
+- **One-Time Product Offers:** Fixed a small error in the purchase page.
 
 ## [1.3.8] - 2026-07-16
 ### Fixed
