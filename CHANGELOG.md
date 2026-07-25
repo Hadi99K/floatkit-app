@@ -1,6 +1,10 @@
 # Floatkit Changelog
 
-- Latest Production Version: v1.3.9 (23)
+- Latest Production Version: v1.3.10 (24)
+
+## [1.3.10] - 2026-07-25
+### Changed
+- **Billing Library Update:** Upgraded Google Play Billing Library to v9.1.0 for better reliability and restricted device mode support.
 
 ## [1.3.9] - 2026-07-19
 ### Fixed
