@@ -10,6 +10,7 @@
 *   **Task Manager:** A built-in To-Do list to track your progress across different apps.
 *   **Manual Clipboard Manager:** Save and organize important copied text for quick access later.
 *   **Voice Memos:** Record high-quality audio notes (44.1 kHz) while multitasking.
+*   **Bookmark Manager:** Save and organize favorite web links into custom folders. Inline link preview in global search and saving directly from other apps via the system Share menu.
 *   **Screenshot Access:** Quickly view and manage recent captures directly from the panel.
 *   **App Launcher:** Instantly search, launch, and pin your favorite apps to the sidebar dock. Supports drag-and-drop reordering and edit mode for managing pinned apps.
 *   **Tools Panel:** Quick system controls including media volume and display brightness sliders, instant screenshot capture, and power menu access—all without leaving your current app.
@@ -24,7 +25,7 @@
 *   **Database:** Room Persistence Library (Offline-first)
 *   **Local Storage:** EncryptedSharedPreferences (Security) & DataStore (Preferences)
 *   **Image Loading:** Coil
-*   **Billing:** Google Play Billing Library 8.3.0
+*   **Billing:** Google Play Billing Library 9.1.0
 *   **Updates:** Google Play In-App Updates API
 *   **Design:** Material 3 (M3) with Adaptive Icon support
 
