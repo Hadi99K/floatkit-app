@@ -6,7 +6,7 @@ Welcome to Floatkit! By accessing or using our application, you agree to be boun
 
 ## 1. Description of Service
 
-Floatkit is a mobile utility application designed to provide a floating sidebar dock, allowing quick access to productivity tools like a to-do list, clipboard history, notes, recent screenshots, voice memos, and a universal search. The application also includes an App Launcher for quick access to installed applications and a Tools Panel for system controls including display brightness, media volume, screenshot capture, and power menu access. The application prioritizes privacy by storing your personal data locally on your device, though certain features like Web Search may require an internet connection.
+Floatkit is a mobile utility application designed to provide a floating sidebar dock, allowing quick access to productivity tools like a to-do list, clipboard history, notes, bookmarks, recent screenshots, voice memos, and a universal search. The application also includes an App Launcher for quick access to installed applications and a Tools Panel for system controls including display brightness, media volume, screenshot capture, and power menu access. The application prioritizes privacy by storing your personal data locally on your device, though certain features like Web Search and fetching link previews may require an internet connection.
 
 ## 2. Use of the Application
 
@@ -45,7 +45,7 @@ In no event shall the developer, Fari Ji, or contributors be liable for any indi
 *   Any unauthorized access to or use of our secure servers and/or any and all personal information stored therein.
 *   Any bugs, viruses, or glitches that may be transmitted to or through our application.
 
-Because Floatkit relies entirely on your device's local storage, we are explicitly not responsible for the loss or deletion of your notes, voice memos, or tasks (e.g., during app uninstallation, device reset, or unexpected database corruption). While Floatkit offers an Automated Backup feature to help mitigate data loss, the secure storage and management of the exported backup files are entirely your responsibility.
+Because Floatkit relies entirely on your device's local storage, we are explicitly not responsible for the loss or deletion of your notes, bookmarks, voice memos, or tasks (e.g., during app uninstallation, device reset, or unexpected database corruption). While Floatkit offers an Automated Backup feature to help mitigate data loss, the secure storage and management of the exported backup files are entirely your responsibility.
 
 ## 6. Changes to Terms
 
