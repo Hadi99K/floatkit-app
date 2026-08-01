@@ -1,6 +1,12 @@
 # Floatkit Changelog
 
-- Latest Production Version: v1.3.10 (24)
+- Latest Production Version: v1.4.0 (25)
+
+## [1.4.0] - 2026-08-01
+### Added
+- **Bookmarks Manager:** A brand new native panel for organizing your favorite web links into custom-colored folders directly within the Floatkit overlay.
+- **System Share Integration:** Save links to Floatkit effortlessly from any other app via the native Android Share menu.
+- **Built-in Browser:** Tap "Open in Floatkit" on a bookmark to quickly view the webpage inside Floatkit's integrated WebView without leaving your current app.
 
 ## [1.3.10] - 2026-07-25
 ### Changed
