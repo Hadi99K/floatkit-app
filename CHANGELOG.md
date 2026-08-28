@@ -1,6 +1,11 @@
 # Floatkit Changelog
 
-- Latest Production Version: v1.4.0 (25)
+- Latest Production Version: v1.4.1 (26)
+
+## [1.4.1] - 2026-08-29
+### Added
+- **Clipboard Auto-Save:** Automated clipboard history capturing with configurable retention settings.
+- **Sidebar Tools Management:** Dedicated settings screen to reorder, enable, and disable sidebar tools with reordering ability.
 
 ## [1.4.0] - 2026-08-01
 ### Added
