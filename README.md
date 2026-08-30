@@ -8,6 +8,7 @@
 *   **Floating Sidebar Dock:** A minimal, draggable dock that expands into a full productivity panel.
 *   **Quick Notes:** Create and manage rich text notes instantly.
 *   **Task Manager:** A built-in To-Do list to track your progress across different apps.
+*   **Quick Reminders:** Set time-sensitive reminders with one tap using quick presets (+5m, +15m, +1h) or a custom date & time picker.
 *   **Manual Clipboard Manager:** Save and organize important copied text for quick access later.
 *   **Voice Memos:** Record high-quality audio notes (44.1 kHz) while multitasking.
 *   **Bookmark Manager:** Save and organize favorite web links into custom folders. Inline link preview in global search and saving directly from other apps via the system Share menu.
