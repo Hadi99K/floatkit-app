@@ -1,6 +1,10 @@
 # Floatkit Changelog
 
-- Latest Production Version: v1.4.1 (26)
+- Latest Production Version: v1.5.0 (27)
+
+## [1.5.0] - 2026-08-30
+### Added
+- **Quick Reminders Panel:** A brand-new overlay panel for setting time-sensitive reminders directly from the floating sidebar without interrupting your current app.
 
 ## [1.4.1] - 2026-08-29
 ### Added
