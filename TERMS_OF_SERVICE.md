@@ -1,12 +1,12 @@
 # Terms of Service for Floatkit
 
-**Effective Date:** May 2026
+**Effective Date:** September 2026
 
 Welcome to Floatkit! By accessing or using our application, you agree to be bound by these Terms of Service. If you disagree with any part of the terms, you may not access the service.
 
 ## 1. Description of Service
 
-Floatkit is a mobile utility application designed to provide a floating sidebar dock, allowing quick access to productivity tools like a to-do list, quick reminders, clipboard history, notes, bookmarks, recent screenshots, voice memos, and a universal search. The application also includes an App Launcher for quick access to installed applications and a Tools Panel for system controls including display brightness, media volume, screenshot capture, and power menu access. The application prioritizes privacy by storing your personal data locally on your device, though certain features like Web Search and fetching link previews may require an internet connection.
+Floatkit is a mobile utility application designed to provide a floating sidebar dock, allowing quick access to productivity tools like a to-do list, quick reminders, clipboard history, notes, bookmarks, recent screenshots, voice memos, and a universal search. The application also includes an App Launcher for quick access to installed applications, a Tools Panel for system controls including display brightness, media volume, screenshot capture, and power menu access, and a Mini Games Panel offering lightweight arcade games (such as Floaty, Stacker, Retro Neon Snake, and Lane Racer) directly within the floating overlay. The application prioritizes privacy by storing your personal data locally on your device, though certain features like Web Search and fetching link previews may require an internet connection.
 
 ## 2. Use of the Application
 
@@ -14,7 +14,7 @@ Floatkit is a mobile utility application designed to provide a floating sidebar 
 Subject to these Terms, we grant you a non-transferable, non-exclusive, revocable, limited license to use Floatkit for your personal, non-commercial purposes.
 
 ### 2.2 Device Permissions
-To function properly, Floatkit requires you to grant specific Android permissions (such as Display over other apps, Microphone, Storage (including All Files Access), Notifications, Query All Packages for the App Launcher, and Modify System Settings for brightness control). You retain full control over these permissions and can revoke them at any time via your device settings, though this may disable certain app features. Advanced system controls like the Power Menu may optionally require Accessibility Service permissions, which you can enable or disable at any time.
+To function properly, Floatkit requires you to grant specific Android permissions (such as Display over other apps, Microphone, Storage (including All Files Access), Notifications, Query All Packages for the App Launcher, Modify System Settings for brightness control, and Vibration for tactile haptic feedback). You retain full control over these permissions and can revoke them at any time via your device settings, though this may disable certain app features. Advanced system controls like the Power Menu may optionally require Accessibility Service permissions, which you can enable or disable at any time.
 
 ### 2.3 Prohibited Activities
 You agree not to:
@@ -26,7 +26,7 @@ You agree not to:
 
 ## 3. Subscriptions and In-App Purchases
 
-Floatkit offers optional premium features accessible through in-app purchases (Lifetime Access) or pre-paid subscriptions (One Month Pass).
+Floatkit offers optional premium features accessible through in-app purchases (Lifetime Access) or pre-paid subscriptions (One Month Pass). Premium benefits may include unlimited access to notes, tasks, bookmarks, automated daily backups, voice memo features, and unlimited plays on premium mini games.
 
 *   **Billing and Transactions:** All purchases and subscriptions are securely processed by the Google Play Store. We do not handle your payment information directly.
 *   **Subscription Management:** You can manage, upgrade, downgrade, or cancel your subscription at any time through your Google Play account settings.
