@@ -15,6 +15,7 @@
 *   **Screenshot Access:** Quickly view and manage recent captures directly from the panel.
 *   **App Launcher:** Instantly search, launch, and pin your favorite apps to the sidebar dock. Supports drag-and-drop reordering and edit mode for managing pinned apps.
 *   **Tools Panel:** Quick system controls including media volume and display brightness sliders, instant screenshot capture, and power menu access—all without leaving your current app.
+*   **Mini Games Panel:** A tactile, zero-latency floating mini games console embedded directly into your floating dock. Play Floaty (Free to play), Stacker (Tower Drop), Retro Neon Snake, or the high-speed Lane Racer over any app.
 *   **Privacy-First:** Your privacy is our priority. All your notes, tasks, recordings, and settings are stored locally on your device. We never collect or transmit your data to external servers, though features like Web Search may require an internet connection.
 *   **Automated Backups:** Safely export and backup your Floatkit data to your device or preferred cloud storage locally via Android SAF.
 *   **Premium Ready:** Integrated with Google Play Billing for subscriptions and lifetime unlocks.
