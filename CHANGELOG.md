@@ -1,6 +1,14 @@
 # Floatkit Changelog
 
-- Latest Production Version: v1.5.0 (27)
+- Latest Production Version: v1.6.0 (28)
+
+## [1.6.0] - 2026-09-11
+### Added
+- **Mini Games Panel:** An overlay arcade hub integrated directly into the floating sidebar with four games:
+  - **Floaty:** Flap through dynamic pylons with (100% Free to Play).
+  - **Stacker (Tower Drop):** Precision tower stacking.
+  - **Retro Neon Snake:** Classic neon grid snake .
+  - **Lane Racer:** High-speed 3-lane highway dodge.
 
 ## [1.5.0] - 2026-08-30
 ### Added
