@@ -1,6 +1,6 @@
 # Terms of Service for Floatkit
 
-**Effective Date:** September 2026
+**Effective Date:** October 2026
 
 Welcome to Floatkit! By accessing or using our application, you agree to be bound by these Terms of Service. If you disagree with any part of the terms, you may not access the service.
 

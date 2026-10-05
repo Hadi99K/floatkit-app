@@ -1,6 +1,6 @@
 # Privacy Policy for Floatkit
 
-**Effective Date:** September 2026
+**Effective Date:** October 2026
 
 Thank you for choosing to use Floatkit. We are committed to protecting your personal information and your right to privacy.
 
@@ -27,14 +27,15 @@ The App Launcher feature reads your installed application list locally to enable
 
 The Backup & Restore feature allows you to export your data into a compressed archive (.zip) for safekeeping. This feature relies entirely on the Android Storage Access Framework (SAF) to write this backup archive directly to the local or cloud-backed directory of your choosing. We do not transmit, sync, or upload your backup files to any developer-owned servers. Once exported, the security and privacy of the backup file are your sole responsibility.
 
-## 3. Third-Party Services (Google Play)
+## 3. Third-Party Services (Google Play & Fedo Feedback)
 
 While Floatkit is primarily an offline application and does not collect personal data on our servers, we utilize Google Play services to manage premium features and updates:
 *   **Google Play Billing:** Used to securely process your in-app purchases and subscriptions.
 *   **Google Play Core:** Used to check for and deliver in-app updates.
 *   **License Verification:** Used to verify the integrity and legitimate purchase status of the app.
+*   **Fedo Feedback & Feature Voting (Optional):** Used to power the in-app "Feedback & Feature Requests" community board in Settings. When you submit feedback, comments, or votes, Fedo processes the submission together with non-PII device technical metadata (manufacturer, model, Android OS version, app version, locale, time zone) using a randomly generated anonymous installation identifier. No personal identity, emails, advertising IDs, or location data are collected.
 
-When you interact with these features, Google Play may collect and process information such as your device information, network connection, and payment history in accordance with the Google Privacy Policy. We do not have access to your payment details or credit card information.
+When you interact with these features, Google Play and Fedo process information in accordance with their respective privacy policies. We do not have access to your payment details or credit card information.
 
 ## 4. Data Sharing
 

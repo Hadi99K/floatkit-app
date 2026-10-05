@@ -1,6 +1,15 @@
 # Floatkit Changelog
 
-- Latest Production Version: v1.6.0 (28)
+- Latest Production Version: v1.7.0 (29)
+
+## [1.7.0] - 2026-10-05
+### Added
+- **Feedback & Feature Requests:** In-app community feedback board in Settings powered by Fedo.
+  - Suggest new features and improvements.
+  - Report bugs directly inside the companion app.
+  - Upvote community ideas to shape the Floatkit roadmap (Planned, In Progress, Shipped).
+  - 100% free and open to all users with anonymous privacy protection (no account or login required).
+  - Clean offline state and direct email fallback if disconnected.
 
 ## [1.6.0] - 2026-09-11
 ### Added
