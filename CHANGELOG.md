@@ -10,6 +10,11 @@
   - Upvote community ideas to shape the Floatkit roadmap (Planned, In Progress, Shipped).
   - 100% free and open to all users with anonymous privacy protection (no account or login required).
   - Clean offline state and direct email fallback if disconnected.
+- **App Launcher Pinned Apps Tab:** Added a persistent segmented tab bar in the App Launcher overlay to easily switch between "All Apps" and "Pinned".
+
+### Fixed
+- **Global Search Auto-Keyboard Toggle Persistence:** Fixed an issue where the "Auto-open Keyboard" toggle in Global Search settings did not persist on back-navigation and failed to hide the keyboard when disabled.
+- **Sidebar Tools Customization Toggles Persistence:** Fixed a bug where toggling visibility of sidebar tools failed to persist or reverted when navigating away.
 
 ## [1.6.0] - 2026-09-11
 ### Added
