@@ -1,6 +1,15 @@
 # Floatkit Changelog
 
-- Latest Production Version: v1.7.0 (29)
+- Latest Production Version: v1.7.1 (30)
+
+## [1.7.1] - 2026-10-06
+### Added
+- **Minimal On-Demand Permissions:** Floatkit now only requires the Overlay permission (`SYSTEM_ALERT_WINDOW`) to start. Microphone, Storage, and Notification permissions are requested on-demand only when accessing corresponding tools, removing all upfront permission blocking waterfalls.
+- **4-Way Sidebar Dock Positioning:** Configure the expanded dock position to Left, Right, Top, or Bottom in Customization settings, while the collapsed pill stays anchored on your screen's side edge.
+
+### Fixed
+- **Fatal Foreground Service Crash:**
+Fixed app crashing on android 12+ due to strict background restrictions.
 
 ## [1.7.0] - 2026-10-05
 ### Added
