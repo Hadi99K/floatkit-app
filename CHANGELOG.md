@@ -1,6 +1,14 @@
 # Floatkit Changelog
 
-- Latest Production Version: v1.7.1 (30)
+- Latest Production Version: v1.7.2 (31)
+
+## [1.7.2] - 2026-10-16
+### Added
+- **Global Search Memory:** Your search query and results now stay put when you minimize and reopen the Floatkit window — no more retyping. A new clear icon in the search header wipes everything instantly, and stale searches are automatically cleared after 15 minutes of inactivity.
+
+### Fixed
+- **Fixed global search panel search bar size:** The size of the search is now fixed and does not change with longer text.
+- **Launch Discount Offer:** The 50% launch discount on the Lifetime plan is now correctly applied via the Play Console offer token instead of silently charging the base price.
 
 ## [1.7.1] - 2026-10-06
 ### Added
