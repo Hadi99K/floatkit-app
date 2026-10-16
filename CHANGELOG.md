@@ -8,7 +8,7 @@
 
 ### Fixed
 - **Fixed global search panel search bar size:** The size of the search is now fixed and does not change with longer text.
-- **Launch Discount Offer:** The 50% launch discount on the Lifetime plan is now correctly applied via the Play Console offer token instead of silently charging the base price.
+- **Launch Discount Offer:** The 50% launch discount on the Lifetime plan is now correctly applied.
 
 ## [1.7.1] - 2026-10-06
 ### Added
