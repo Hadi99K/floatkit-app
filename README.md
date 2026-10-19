@@ -2,6 +2,16 @@
 
 **Floatkit** is a high-performance, multitasking productivity suite for Android. It provides a non-intrusive floating sidebar (overlay) that stays accessible over any app, allowing users to manage notes, tasks, clipboard items, and voice memos without ever leaving their current activity.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Floatkit-Productivity%20Suite-5C6BC0?style=for-the-badge&logo=android&logoColor=white" alt="Floatkit App Icon" />
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.fariji.floatkit">
+    <img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play" />
+  </a>
+</p>
+
 ## 🌟 Key Features
 
 *   **Global Search (Core Feature):** Instantly search through your local files, media, contacts, calendar, notes, tasks, and the web—all from a single unified floating search bar.
