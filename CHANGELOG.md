@@ -1,6 +1,11 @@
 # Floatkit Changelog
 
-- Latest Production Version: v1.7.2 (31)
+- Latest Production Version: v1.7.3 (32)
+
+## [1.7.3] - 2026-10-26
+### Fixed
+- Fixed some App Not Responding crashes for miui and hyperos devices
+- Fixed some stability issues in the app launcher panel
 
 ## [1.7.2] - 2026-10-16
 ### Added
